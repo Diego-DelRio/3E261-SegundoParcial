@@ -1,4 +1,6 @@
 #include <iostream>
-int main(argc, argv){
+#include <cstdlib>
+
+int main(int argc, char* argv[]) {
     return EXIT_SUCCESS;
 }
